@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Blog de Majo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5e5e1;
+      color: #4a4a4a;
+      margin: 0;
+      padding: 0 1rem;
+    }
+
+    header, footer {
+      background-color: #e7cbc3;
+      text-align: center;
+      padding: 1rem 0;
+    }
+
+    header h1 {
+      margin: 0;
+      color: #2f4a5a;
+    }
+
+    main {
+      max-width: 600px;
+      margin: 2rem auto;
+    }
+
+    section {
+      margin-bottom: 1.5rem;
+    }
+
+    h2 {
+      color: #627988;
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      color: #627988;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hola, soy Majo</h1>
+</header>
+
+<main>
+  <section>
+    <h2>Sobre mí</h2>
+    <p>Mi nombre completo es María José Espinoza, pero me gusta que me llamen <strong>Majo</strong>. Soy estudiante de <strong>Negocios Internacionales</strong> y me apasiona explorar el mundo y sus culturas.</p>
+  </section>
+
+  <section>
+    <h2>Pasatiempos</h2>
+    <p>Me encanta <strong>leer</strong> y <strong>ver películas</strong>, perderme en historias y descubrir nuevas perspectivas. También disfruto mucho viajar, conocer personas nuevas y aprender de otras formas de vida.</p>
+  </section>
+
+  <section>
+    <h2>¿Por qué este blog?</h2>
+    <p>Este es mi espacio para compartir pensamientos, experiencias y todo lo que me inspira. ¡Gracias por estar aquí!</p>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 Majo Espinoza | Blog personal
+</footer>
+
+</body>
+</html>
